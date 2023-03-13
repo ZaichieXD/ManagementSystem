@@ -3,8 +3,8 @@ Company Management system made using C# .Net and Entity Framework,
 Applying the Entity Framework's Code First Approach
 
 Features:
-
--Employee Management
--Projects Management
--Reports Management
+<br />
+-Employee Management <br />
+-Projects Management <br />
+-Reports Management <br />
 -News
