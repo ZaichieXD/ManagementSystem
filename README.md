@@ -1,6 +1,5 @@
 # ManagementSystem
-Company Management system made using C# .Net and Entity Framework,
-Applying the Entity Framework's Code First Approach
+Company Management System is Windows Form Application made using C# .Net and Entity Framework Code First Approach. This app can manage employee, track projects, create reports and update to the latest projects completion news.
 
 Features:
 <br />
