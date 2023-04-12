@@ -1,9 +1,2 @@
 # ManagementSystem
-Company Management System is Windows Form Application made using C# .Net and Entity Framework Code First Approach. This app can manage employee, track projects, create reports and update to the latest projects completion news.
-
-Features:
-<br />
--Employee Management <br />
--Projects Management <br />
--Reports Management <br />
--News
+Company Management System project is designed to help businesses track their employees and projects with ease. The system provides a centralized platform to manage employee data, project details, and generate reports that can be displayed on the news section. With this system, businesses can efficiently manage their resources, stay on top of project deadlines, and make informed decisions based on real-time data.
